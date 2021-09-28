@@ -1,13 +1,14 @@
 <h1 align="center">Safedime</h1>
-<p align="center">Safedime é um pequeno USB stick, com prova de criação, apenas o criador poderá abrir as chaves privadas, diferente do que temos até agora o safedime não tem o objetivo de uma pessoa poder “passar ele pra frente” ele tem muito mais a visão de ser um cofre pessoal físico e frio, mas que só quem criou pode abrir via arquivo-chave as chaves privadas de uma carteira bitcoin.</p> 
+<p align="center">Safedime is a small USB stick, with proof of creation, only the creator can open the private keys, unlike what we have so far, safedime does not have the objective of a person being able to “pass it forward” it has much more the vision of be a physical and cold personal safe, but that only those who created it can open via file-
+key the private keys of a bitcoin wallet.</p> 
 
-## Existem quatro estados para um Safedime: 
+## There are four states for a Safedime: 
 
 
-1. Nova unidade (ainda não tem um endereço bitcoin)   
-2. Selado (normal; tem um endereço de pagamento) 
-3. Não selado (um arquivo criptografado é gerado, mas apenas o arquivo-chave pode abrir essa criptografia, aí sim alcançará o próximo estado) 
-4. Revelado (a chave privada é revelada; varra seus fundos)
+1. New unit (does not have a bitcoin address yet) 
+2. Sealed (normal; has a payment address)
+3. Unsealed (an encrypted file is generated, but only the key file can open this encryption, then it will reach the next state) 
+4. Revealed (private key is revealed; sweep your funds)
 
 <h4 align="center"> 
 https://github.com/trilemabtc/safedime/tree/main/whitepaper
